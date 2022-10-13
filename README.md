@@ -25,7 +25,8 @@ public class languages {
                 "C#",
                 "HTML",
                 "CSS",
-                "Javascript"
+                "Javascript",
+                "Markdown"
         };
     }
 }
