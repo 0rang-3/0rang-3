@@ -29,7 +29,9 @@ public class learning {
 ```
 
 ### Contact
-- 📫 You can't reach out to me :(
+```py
+print("Error 404")
+```
 
 <!---
 0rang-3/0rang-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
