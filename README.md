@@ -17,7 +17,15 @@ public class CodingLanguagesIKnow {
     }
 }
 ```
+`
+import Contact from 'cyberdev_';
 
+class Contact extends Contact {
+  name    = 'cyberdev_';
+  contact   = 'devs_github@protonmail.com';
+  website = 'https://cyberdev.pages.dev';
+}
+`
 
 ### What I Am Currently Learning
  - Machine Learning in Python
