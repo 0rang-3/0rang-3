@@ -1,6 +1,21 @@
 ## 👋 Hi, I’m @0rang-3
 - 👀 I’m interested in developing websites and playing around with Raspberry Pi's.
-- 🌱 I’m currently learning HTML and Machine Learning in Python. My favorite language is Java!
+
+### Coding Languages I Know
+ - Java
+ - Python
+ - Swift
+ - C#
+ - HTML
+ - CSS
+ - Javascript
+
+### What I Am Currently Learning
+ - Machine Learning in Python
+ - Game Development in Unity
+ - Making Assets in Blendar
+
+### Contact
 - 📫 You can reach me on discord (Orange#5020).
 
 <!---
