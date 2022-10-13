@@ -15,6 +15,11 @@
  - Game Development in Unity
  - Making Assets in Blendar
 
+`
+import discord.py
+`
+
+
 ### Contact
 - 📫 You can reach me on discord (Orange#5020).
 
