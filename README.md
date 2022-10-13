@@ -36,9 +36,10 @@ public class languages {
 public class learning {
     public Learning() {
         // What I Am Currently Learning
-        String task1 = "Machine Learning in Python";
-        String task2 = "Game Development in Unity";
-        String task3 = "Making Assets in Blendar";
+        String task1 = "Game Development in Unity";
+        String task2 = "Making Assets in Blendar";
+        String task3 = "Data Structures";
+        String task4 = "C++";
     }
 }
 ```
