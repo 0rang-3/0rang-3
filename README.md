@@ -1,11 +1,14 @@
 # 👋 Hi, I’m @0rang-3
 ## interests.java
 ```java
-public class CodingLanguagesIKnow {
+public class interests {
     public static void main(String[] args) {
         // My Interests
         String interest1 = "Developing Websites";
         String interest2 = "Developing Games";
+
+        Languages languages = new Languages();
+        Learning learning = new Learning();
     }
 }
 ```
@@ -13,7 +16,7 @@ public class CodingLanguagesIKnow {
 ## languages.java
 ```java
 public class languages {
-    public static void main(String[] args) {
+    public Languages() {
         // Coding Languages I Know
         String[] languages = {
                 "Java",
@@ -30,7 +33,7 @@ public class languages {
 ## learning.java
 ```java
 public class learning {
-    public static void main(String[] args) {
+    public Learning() {
         // What I Am Currently Learning
         String task1 = "Machine Learning in Python";
         String task2 = "Game Development in Unity";
