@@ -1,7 +1,7 @@
-## 👋 Hi, I’m @0rang-3
+# 👋 Hi, I’m @0rang-3
 - 👀 I’m interested in developing websites and playing around with Raspberry Pi's.
 
-### languages.java
+## languages.java
 ```java
 public class languages {
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class languages {
     }
 }
 ```
-### learning.java
+## learning.java
 ```java
 public class learning {
     public static void main(String[] args) {
@@ -30,7 +30,7 @@ public class learning {
 }
 ```
 
-### contact.py
+## contact.py
 ```py
 # Contact Me
 print("Error 404")
