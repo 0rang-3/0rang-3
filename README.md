@@ -3,7 +3,7 @@
 
 ### Coding Languages I Know
 ```java
-public class CodingLanguagesIKnow {
+public class languages {
     public static void main(String[] args) {
         String[] languages = {
                 "Java",
@@ -17,15 +17,16 @@ public class CodingLanguagesIKnow {
     }
 }
 ```
-
-
 ### What I Am Currently Learning
- - Machine Learning in Python
- - Game Development in Unity
- - Making Assets in Blendar
-
-
-
+```java
+public class learning {
+    public static void main(String[] args) {
+        String task1 = "Machine Learning in Python";
+        String task2 = "Game Development in Unity";
+        String task3 = "Making Assets in Blendar";
+    }
+}
+```
 
 ### Contact
 - 📫 You can reach me on discord (Orange#5020).
