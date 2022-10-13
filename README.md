@@ -17,7 +17,7 @@
 
 ``` bash
 import discord.py
-`
+```
 
 
 ### Contact
