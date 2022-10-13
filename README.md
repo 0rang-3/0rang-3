@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing websites and playing around with Raspberry Pi's.
 
 ### Coding Languages I Know
-```bash
+```java
 public class CodingLanguagesIKnow {
     public static void main(String[] args) {
         String[] languages = {
