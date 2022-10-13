@@ -15,7 +15,7 @@
  - Game Development in Unity
  - Making Assets in Blendar
 
-`
+``` bash
 import discord.py
 `
 
