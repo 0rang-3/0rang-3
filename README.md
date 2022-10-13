@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @0rang-3
 - 👀 I’m interested in developing websites and playing around with Raspberry Pi's.
 
-### Coding Languages I Know
+### languages.java
 ```java
 public class languages {
     public static void main(String[] args) {
