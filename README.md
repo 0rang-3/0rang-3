@@ -1,5 +1,13 @@
 # 👋 Hi, I’m @0rang-3
-- 👀 I’m interested in developing websites and playing around with Raspberry Pi's.
+```java
+public class CodingLanguagesIKnow {
+    public static void main(String[] args) {
+        // My Interests
+        String interest1 = "Developing Websites";
+        String interest2 = "Developing Games";
+    }
+}
+```
 
 ## languages.java
 ```java
