@@ -2,22 +2,28 @@
 - 👀 I’m interested in developing websites and playing around with Raspberry Pi's.
 
 ### Coding Languages I Know
- - Java
- - Python
- - Swift
- - C#
- - HTML
- - CSS
- - Javascript
+```bash
+public class CodingLanguagesIKnow {
+    public static void main(String[] args) {
+        String[] languages = {
+                "Java",
+                "Python",
+                "Swift",
+                "C#",
+                "HTML",
+                "CSS",
+                "Javascript"
+        };
+    }
+}
+```
 
 ### What I Am Currently Learning
  - Machine Learning in Python
  - Game Development in Unity
  - Making Assets in Blendar
 
-``` bash
-import discord.py
-```
+
 
 
 ### Contact
