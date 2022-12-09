@@ -27,7 +27,8 @@ public class languages {
                 "CSS",
                 "Javascript",
                 "Markdown",
-                "Hexo"
+                "Hexo",
+                "Flask"
         };
     }
 }
