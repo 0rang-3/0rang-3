@@ -8,7 +8,7 @@ public class interests {
         String interest2 = "Developing Websites";
         String interest3 = "Developing Games";
 
-        Languages languages = new Languages();
+        Knowledge knowledge = new Knowledge();
         Learning learning = new Learning();
     }
 }
@@ -16,8 +16,8 @@ public class interests {
 
 ## languages.java
 ```java
-public class languages {
-    public Languages() {
+public class knowledge {
+    public Knowledge() {
         // Coding Languages I Know
         String[] languages = {
                 "Java",
@@ -31,6 +31,17 @@ public class languages {
                 "Hexo",
                 "Flask"
         };
+        
+        //Softwares I Use
+        String[] softwares = {
+                "Visual Studio Code",
+                "IntelliJ IDEA",
+                "PyCharm",
+                "Unity",
+                "IDLE",
+                "Xcode",
+                "replit.com"
+        };
     }
 }
 ```
@@ -41,8 +52,6 @@ public class learning {
         // What I Am Currently Learning
         String task1 = "Game Development in Unity";
         String task2 = "Augmented Reality in Unity";
-        String task3 = "Data Structures";
-        String task4 = "C++";
         String task5 = "Flask";
     }
 }
