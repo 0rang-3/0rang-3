@@ -40,7 +40,7 @@ public class learning {
     public Learning() {
         // What I Am Currently Learning
         String task1 = "Game Development in Unity";
-        String task2 = "AR in Unity";
+        String task2 = "Augmented Reality in Unity";
         String task3 = "Data Structures";
         String task4 = "C++";
         String task5 = "Flask";
