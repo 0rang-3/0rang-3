@@ -4,8 +4,9 @@
 public class interests {
     public static void main(String[] args) {
         // My Interests
-        String interest1 = "Developing Websites";
-        String interest2 = "Developing Games";
+        String interest1 = "Participating in Hackathons";
+        String interest2 = "Developing Websites";
+        String interest3 = "Developing Games";
 
         Languages languages = new Languages();
         Learning learning = new Learning();
