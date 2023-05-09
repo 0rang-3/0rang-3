@@ -26,7 +26,7 @@ public class knowledge {
                 "C#",
                 "HTML",
                 "CSS",
-                "Javascript",
+                "JavaScript",
                 "Markdown",
                 "Hexo",
                 "Flask"
